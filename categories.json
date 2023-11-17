@@ -1,0 +1,481 @@
+{
+    "category": {
+        "alkogolnaya-produkciya": {
+            "krepkiy-alkogol": {
+                "viski": {},
+                "likery": {},
+                "konyak": {},
+                "brendi": {},
+                "armanyak": {},
+                "vodka": {},
+                "rom": {},
+                "tekila": {},
+                "dzhin": {},
+                "kalvados": {}
+            },
+            "vino": {
+                "krasnoe-vino": {},
+                "beloe-vino": {},
+                "rozovoe-vino": {},
+                "kreplenoe": {},
+                "vinnye-napitki": {}
+            },
+            "vermuty-i-aperitivy": {},
+            "shampanskoe-igristye-vina": {
+                "beloe": {},
+                "krasnoe": {},
+                "rozovoe": {}
+            },
+            "bezalkogolnoe-vino-i-shampanskoe": {},
+            "pivo-sidr": {},
+            "sidr": {},
+            "kokteyli": {},
+            "posuda-i-aksessuary-dlya-napitkov": {}
+        },
+        "rybnye": {
+            "ohlazhdennaya-ryba": {},
+            "solenye": {},
+            "moreprodukty": {},
+            "krabovoe-myaso-palochki": {},
+            "ikra": {},
+            "preservy-pashtety": {}
+        },
+        "zamorozhennye-produkty": {
+            "zamorozhennoe-myaso": {
+                "zamorozhennaya-govyadina": {},
+                "zamorozhennaya-svinina": {},
+                "zamorozhennaya-baranina": {},
+                "zamorozhenniy-krolik": {},
+                "zamorozhennye-subprodukty": {}
+            },
+            "zamorozhennaya-ptitsa": {
+                "zamorozhennaya-kuritsa": {},
+                "zamorozhennaya-utka": {},
+                "zamorozhennaya-indeyka": {},
+                "zamorozhennaya-drugaya-ptitsa": {}
+            },
+            "zamorozhennye-gotovye-blyuda": {
+                "pelmeni-vareniki-khinkali": {},
+                "pitstsa-bliny": {},
+                "gotovye-blyuda-iz-myasa": {},
+                "prochaya-gotovaya-eda": {},
+                "na-rastitelnoy-osnove": {}
+            },
+            "zamorozhennye-polufabrikaty": {},
+            "zamorozhennaya-ryba": {},
+            "zamorozhennye-moreprodukty": {},
+            "zamorozhennye-ovoschi-i-griby": {},
+            "zamorozhennye-yagody-i-frukty": {},
+            "zamorozhennaya-vypechka-i-testo": {},
+            "zamorozhenniy-khleb": {},
+            "morozhenoe": {},
+            "lyod": {},
+            "halyal-5-29054": {
+                "zamorozhennye-produkty-3-128414": {}
+            }
+        },
+        "myasnye": {
+            "myaso": {
+                "govyadina": {},
+                "telyatina": {},
+                "svinina": {},
+                "baranina": {},
+                "krolik": {}
+            },
+            "ptica": {
+                "kurica": {},
+                "indeyka": {},
+                "utka": {},
+                "perepel": {}
+            },
+            "farsh": {},
+            "myasnye-polufabrikaty": {},
+            "subprodukty": {},
+            "shashlyk-barbekyu": {},
+            "myasnye-delikatesy": {},
+            "kolbasy-vetchina": {},
+            "sosiski-sardelki-shpikachki": {},
+            "pashtety-riyety": {},
+            "halyal-3-29047": {
+                "myaso-ptica-kolbasy-2-126727": {}
+            }
+        },
+        "hleb-vypechka-torty": {
+            "hleb-lavash-lepeshki": {},
+            "vypechka-sdoba-testo": {},
+            "torty-pirogi-pirozhnye": {}
+        },
+        "chaj-kofe-kakao": {
+            "chay": {
+                "cherniy-chay": {},
+                "zeleniy-chay": {},
+                "beliy-chay": {},
+                "ulun": {},
+                "roybush": {},
+                "fitochay": {}
+            },
+            "kofe": {
+                "kofe-v-zernakh": {},
+                "molotiy-kofe": {},
+                "rastvorimiy-kofe": {},
+                "kofe-v-kapsulakh": {}
+            },
+            "cikorij-kofezameniteli": {},
+            "kakao-kofejnye-napitki": {}
+        },
+        "sladosti-chipsy-sneki": {
+            "konfety-podarochnye-nabory": {},
+            "shokolad-batonchiki": {},
+            "pechene-pryaniki-vafli": {},
+            "zefir-marmelad-vostochnye-sladosti": {},
+            "sushki-baranki-suhari": {},
+            "zhevatelnaya-rezinka": {},
+            "chipsy-suhari-sneki": {}
+        },
+        "molochnye-prodkuty-syry-i-yayca": {
+            "syry": {
+                "polutverdye": {},
+                "tverdye-i-vyderzhannye": {},
+                "s-plesenyu": {},
+                "tvorozhnye": {},
+                "motsarella": {},
+                "rassolnye": {},
+                "plavlenye": {},
+                "kopchenye-i-sneki": {},
+                "prochie-syry-i-assorti": {}
+            },
+            "yayca": {},
+            "moloko": {},
+            "rastitelnoe-moloko": {},
+            "sgushchennoe-moloko": {},
+            "molochnye-napitki": {},
+            "slivki": {},
+            "smetana": {},
+            "kislomolochnye-prodkuty": {},
+            "tvorog": {},
+            "jogurty": {},
+            "slivochnoe-maslo-i-margarin": {},
+            "deserty-zhele-puding": {}
+        },
+        "bakaleya": {
+            "rastitelnoe-maslo": {},
+            "makaronnye-izdeliya": {},
+            "krupy-bobovye": {},
+            "muka-vse-dlya-vypechki": {},
+            "sahar-sol": {},
+            "konservy": {
+                "myasnye-konservy": {},
+                "ovoshchnye-konservy": {},
+                "rybnye-konservy": {},
+                "fruktovye-yagodnye-konservy": {}
+            },
+            "sousy-mayonezy-spetsii": {},
+            "suhie-zavtraki": {},
+            "orekhi-suhofrukty-semechki": {},
+            "med-dzhemy-varene": {},
+            "produkty-bystrogo-prigotovleniya": {},
+            "kuhni-mira": {}
+        },
+        "ovoshchi-i-frukty": {
+            "ovoshchi": {},
+            "frukty": {},
+            "yagody": {},
+            "griby": {},
+            "zelen-salaty": {},
+            "polufabrikaty-201006": {}
+        },
+        "bezalkogolnye-napitki": {
+            "pityevaya-voda-kulery": {},
+            "soki-morsy-nektary": {},
+            "napitki-105003": {},
+            "holodniy-chay-i-kofe": {},
+            "energetiki": {}
+        },
+        "gotovye-bljuda-polufabrikaty": {
+            "zakuski": {},
+            "supy": {},
+            "vtorye-blyuda": {},
+            "salaty": {},
+            "pochti-gotovo": {}
+        },
+        "zdorovoe-pitanie": {
+            "produkty-bez-glyutena-113001": {},
+            "bio-produkty": {},
+            "hlebcy-113002": {},
+            "diabeticheskie-produkty": {}
+        },
+        "tovary-dlya-doma-dachi-sada": {
+            "mebel": {
+                "mebel-dlya-ulicy": {}
+            },
+            "dekor-interera": {
+                "kartiny-vazy": {},
+                "svetilniki-svechi": {},
+                "prazdnichnye-ukrasheniya": {}
+            },
+            "dekor-sada-rasteniya": {
+                "kashpo-gorshki": {},
+                "parniki-podvyazka": {},
+                "semena-i-rasteniya": {},
+                "sistemy-poliva": {},
+                "udobreniya-gumidar-ehliksiry": {},
+                "pochva": {},
+                "srezannye-cvety": {}
+            },
+            "novogodnie-tovary": {
+                "podarochnye-nabory": {},
+                "eli-sosny-pikhty": {},
+                "elovye-girlyandy-i-venki": {},
+                "elektrogirlyandy": {},
+                "svetovoy-dekor": {},
+                "novogodnie-figurki": {},
+                "novogodniy-dekor": {},
+                "iskusctvenniy-sneg-i-khlopushki": {},
+                "elochnye-igrushki": {},
+                "karnavalnye-kostyumy-i-aksessuary": {},
+                "simvol-goda": {}
+            },
+            "sadovaya-tekhnika-instrumenty": {
+                "instrumenty": {}
+            },
+            "posuda": {
+                "servirovka-stola": {},
+                "posuda-dlya-prigotovleniya-pishchi": {},
+                "hranenie-produktov": {},
+                "odnorazovaya-posuda-i-posuda-dlya-vecherinok": {}
+            },
+            "hozyajstvennye-tovary": {
+                "musornye-baki": {},
+                "sredstva-dlya-uborki": {},
+                "korziny-dlya-belya": {},
+                "tazy-vedra": {},
+                "gladilnye-doski-chekhly": {},
+                "sushilki-dlya-belya": {},
+                "sredstva-po-uhodu-za-odezhdoj-obuvyu": {},
+                "dispensery": {},
+                "shvabry-i-shchetki": {},
+                "sgony-dlya-chistki-okon": {},
+                "konteynery-i-emkosti": {},
+                "sumki-dlya-pokupok": {},
+                "sushilki-dlya-posudy": {}
+            },
+            "domashnij-tekstil": {
+                "komplekty-postelnogo-belya": {},
+                "pledy-pokryvala": {},
+                "odeyala": {},
+                "podushki": {},
+                "polotenca": {},
+                "skaterti": {},
+                "kovry-kovriki": {},
+                "kuhonnyy-tekstil": {},
+                "aksessuary-dlya-tekstilya": {}
+            },
+            "odezhda-bele": {
+                "noski-kolgotki": {},
+                "obuv-aksessuary": {},
+                "prof-odezhda-i-obuv": {},
+                "bannyy-halat-i-tapochki": {}
+            },
+            "trenazhery-sportivnyj-inventar": {
+                "sanki-ledyanki": {},
+                "prochee-snaryazhenie": {}
+            },
+            "turisticheskie-prinadlezhnosti-otdyh": {
+                "palatki-spalniki-kovriki": {},
+                "tursredstva-ot-nasekomyh": {},
+                "nabory-dlya-piknika": {},
+                "grili-barbekyu": {},
+                "bassejny": {},
+                "zonty": {},
+                "skladnaya-mebel": {},
+                "chemodany-sumki-chekhly": {},
+                "zazhigalki-spichki": {},
+                "prochie-naduvnye-prinadlezhnosti": {}
+            },
+            "akkumulyatory-batarejki": {},
+            "hranenie-veshchej": {
+                "yashchiki-komody-organajzery": {},
+                "veshalki": {},
+                "chekhly-dlya-odezhdy-obuvi": {}
+            }
+        },
+        "kosmetika": {
+            "uhod-za-volosami": {
+                "shampuni-balzamy-maski": {},
+                "kraski-114001002": {},
+                "sredstva-dlya-ukladki": {}
+            },
+            "uhod-za-telom-i-licom": {
+                "kremy-uhod-za-licom": {},
+                "sredstva-dlya-zagara": {},
+                "uhod-za-telom": {},
+                "mylo": {},
+                "sredstva-dlya-dusha": {},
+                "aksessuary-114002006": {},
+                "antiperspiranty-dezodoranty": {},
+                "sredstva-dlya-britya-depilyacia": {},
+                "drugoe-114002009": {}
+            },
+            "uhod-za-zubami": {
+                "pasty-opolaskivateli": {},
+                "shchetki-114003002": {},
+                "drugoe-114003003": {}
+            },
+            "gigienicheskie-prinadlezhnosti": {
+                "sredstva-zhenskoj-gigieny": {},
+                "medicinskie-tovary": {}
+            },
+            "bumazhnye-vatnye-izdeliya": {
+                "bumazhnye-polotentsa": {},
+                "bumazhnye-salfetki": {},
+                "vatnaya-produktsiya": {},
+                "vlazhnye-salfetki": {},
+                "kosmeticheskie-salfetki-i-nosovye-platochki": {},
+                "tualetnaya-bumaga": {}
+            },
+            "meditsinskie-tovary": {
+                "aptechnye-sredstva": {},
+                "prezervativy-i-lubrikanty": {}
+            }
+        },
+        "detskie-tovary": {
+            "detskoe-pitanie": {
+                "detskoe-moloko": {},
+                "detskie-molochnye-produkty": {},
+                "zameniteli-moloka-i-detskie-smesi": {},
+                "detskie-pyure": {},
+                "detskie-napitki-i-soki": {},
+                "sukhie-zavtraki-i-kashi-dlya-detey": {},
+                "sneki-dlya-detey": {}
+            },
+            "podguzniki-i-gigiena": {},
+            "detskaya-kosmetika": {},
+            "igry-igrushki": {}
+        },
+        "tovary-dlja-zhivotnyh": {
+            "korma-i-lakomstva-dlya-sobak": {
+                "sukhoy-korm-dlya-sobak": {},
+                "vlazhniy-korm-dlya-sobak": {},
+                "lakomstva-dlya-sobak": {}
+            },
+            "korma-i-lakomstva-dlya-koshek": {
+                "sukhoy-korm-dlya-koshek": {},
+                "vlazhniy-korm-dlya-koshek": {},
+                "lakomstva-dlya-koshek": {}
+            },
+            "korma-dlya-drugikh-zhivotnykh": {},
+            "aksessuary-i-ukhod-za-zhivotnymi": {
+                "aksessuary-dlya-sobak": {},
+                "aksessuary-dlya-koshek": {},
+                "aksessuary-dlya-drugikh-zhivotnykh": {},
+                "napolniteli-dlya-koshachego-tualeta": {}
+            }
+        },
+        "avtotovary": {
+            "avtomobilnaya-elektronika": {},
+            "motornye-masla-tekhnicheskie-zhidkosti": {},
+            "avtokosmetika-aksessuary": {},
+            "sredstva-bezopasnosti": {
+                "avtokresla": {},
+                "avarijnye-nabory": {}
+            }
+        },
+        "bytovaya-himiya": {
+            "chistyaschie-sredstva": {},
+            "sredstva-dlya-stirki": {},
+            "sredstva-dlya-mytya-posudy": {},
+            "osvezhiteli-vozduha": {},
+            "sredstva-ot-nasekomyh": {}
+        },
+        "elektronika-tekhnika": {
+            "televizory-audio-i-video": {
+                "aksessuary-dlya-televizora": {},
+                "audioobrudovanie": {}
+            },
+            "kompyuternaya-ofisnaya-tekhnika": {
+                "kompyutery-noutbuki-i-komplektuyushchie": {},
+                "laminatory-broshyurovshchiki-rezaki": {},
+                "nositeli-informacii": {}
+            },
+            "tehnika-dlya-kuhni": {
+                "prigotovlenie-napitkov": {},
+                "krupnaya-kuhonnaya-tehnika": {},
+                "melkaya-tehnika-dlya-kuhni": {}
+            },
+            "krupnaya-tehnika-dlya-doma": {},
+            "klimaticheskaya-tekhnika": {
+                "obogrevateli": {},
+                "uvlazhniteli-vozduha": {}
+            },
+            "melkaya-tehnika-dlya-doma": {},
+            "krasota-zdorove": {
+                "ozdorovlenie": {}
+            }
+        },
+        "professionalnoe-oborudovanie": {
+            "krupnoe-professionalnoe-oborudovanie": {},
+            "melkoe-professionalnoe-oborudovanie": {},
+            "oborudovanie-dlya-uborki": {},
+            "posuda-dlya-obshchepita": {},
+            "sistemy-bezopasnosti": {},
+            "torgovoe-oborudovanie": {}
+        },
+        "vse-dlya-remonta": {
+            "remont-instrumenty": {
+                "elektroinstrumenty": {},
+                "ruchnye": {},
+                "osnastka-raskhodnye-materialy": {},
+                "sredstva-individualnoj-zashchity": {}
+            },
+            "tekhnologicheskoe-oborudovanie": {
+                "kompressory": {}
+            },
+            "santekhnika": {
+                "Izmeritelnye-pribory": {},
+                "aksessuary-dlya-vann-saun": {}
+            },
+            "stroitelnye-materialy": {
+                "klej": {},
+                "peny-germetiki": {},
+                "lenty": {},
+                "stellazhi-telezhki": {},
+                "malyarnye-instrumenty": {},
+                "osveshchenie": {}
+            }
+        },
+        "ofis-obuchenie-hobbi": {
+            "tovary-dlya-ofisa": {
+                "mebel-119001001": {},
+                "papki-sistemy-arhivacii": {},
+                "prinadlezhnosti-119001003": {},
+                "doski-bilbordy-flipcharty": {}
+            },
+            "bumazhnaya-produkciya": {
+                "ofisnaya-bumaga": {},
+                "blanki-buhgalterskie-knigi": {},
+                "bumaga-dlya-zametok-zakladki": {},
+                "tetradi-bloknoty": {},
+                "roliki-chekovaya-lenta": {},
+                "etiketki-cenniki": {},
+                "konverty-pakety": {},
+                "ezhednevniki-kalendari": {},
+                "dlya-prazdnika": {}
+            },
+            "tovary-dlya-shkoly": {
+                "dlya-obucheniya": {}
+            },
+            "pismennye-prinadlezhnosti": {
+                "ruchki": {},
+                "karandashi-tochilki-lastiki": {},
+                "korrektory": {},
+                "markery-tekstovydeliteli": {}
+            },
+            "tovary-dlya-tvorchestva": {
+                "cvetnye-karandashi-flomastery-mel": {},
+                "kraski-kisti-palitry-stakany": {},
+                "bumaga-albomy-papki-dlya-risovaniya": {},
+                "cvetnaya-bumaga-karton": {}
+            }
+        }
+    }
+}
